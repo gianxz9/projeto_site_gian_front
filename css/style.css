@@ -1,6 +1,7 @@
 /* geral */
 html {
 	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
 }
 
 /* reset */
@@ -51,8 +52,8 @@ nav {
  }
 
  #logo {
- 	width: 130px;
- 	height: 75px;
+ 	width: 100px;
+ 	height: 80px;
  	margin-top: 25px;
 
  }
@@ -148,7 +149,7 @@ nav {
    background-color:transparent;
    padding-left:10px;
    font-size:13px;
-   border:none;
+   border:none;.vtex-product-summary-2-x-container--summaryComplete .vtex-product-summary-2-x-image {
    height:32px;
    width:191px;
  }
